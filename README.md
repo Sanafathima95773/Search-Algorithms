@@ -110,8 +110,11 @@ else:
 ## Sample Input and Output
 i)	#Use a linear search method to match the item in a list.
 ![image](https://github.com/Sanafathima95773/Search-Algorithms/assets/147084627/83166bff-76dc-48bf-8a40-fbc85d1ea6b2)
-
+ii)	# Find the element in a list using Binary Search(Iterative Method).
 ![image](https://github.com/Sanafathima95773/Search-Algorithms/assets/147084627/d761c968-37d2-42d6-95c1-4a21a8930b4c)
+iii)	# Find the element in a list using Binary Search (recursive Method).
+![image](https://github.com/Sanafathima95773/Search-Algorithms/assets/147084627/cc8ebbfb-9cc3-4ecf-a7ac-0db4ceea15bf)
+
 
 
 

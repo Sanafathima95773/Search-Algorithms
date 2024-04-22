@@ -104,8 +104,6 @@ else:
 
 
 
-
-
 ```
 ## Sample Input and Output
 i)	#Use a linear search method to match the item in a list.
